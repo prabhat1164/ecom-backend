@@ -32,11 +32,11 @@ git clone https://github.com/your-username/ecom-backend.git
 cd ecom-backend
 ```
 2. **Build the project using Maven**
-```declarative
+```
 ./mvnw clean install
 ```
 3. **Run the Spring Boot application**
-```declarative
+```
 ./mvnw spring-boot:run
 ```
 
